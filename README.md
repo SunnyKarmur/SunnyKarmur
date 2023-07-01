@@ -1,5 +1,16 @@
-# Greetings, I'm Sunny! <br/> Robotics Software Engineer
-<font color="blue"><sub>robotics software engineer</sub></font> 
+
+# Greetings, I'm Sunny! 
+#### Robotics Software Engineer
+
+###  
+I am a research enthusiast in the fields of Robotics & Control Systems. 
+I work on full-stack Robotics System Development Projects related to:
+- [Computer Vision]()
+ - [Perception]()
+ - [Robot Manipulation & Motion Planning]()
+- [Path Planning]()
+ - [Linear, Optimal & Non-Linear Controls]()
+ - [ROS1/ ROS2]()
 
 <!--
 **SunnyKarmur/SunnyKarmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
