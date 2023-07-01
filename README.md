@@ -1,4 +1,5 @@
-### Hi there 👋
+# Greetings, I'm Sunny! Robotics Software Engineer
+<font color="blue"><sub>robotics software engineer</sub></font> 
 
 <!--
 **SunnyKarmur/SunnyKarmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
