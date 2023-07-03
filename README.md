@@ -1,6 +1,6 @@
 
 # Greetings, I'm Sunny! 
-#### Robotics Software Engineer
+#### Robotics Software Engineer Aspirant
 
 ###  
 I am a research enthusiast in the fields of Robotics & Control Systems. 
